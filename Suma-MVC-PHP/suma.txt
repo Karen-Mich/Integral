@@ -1,0 +1,3 @@
+en php realizar una clase que me permita sumar dos numeros mediante un interfaz de cliente
+los numeros deben guardarse en la base de datos asi como el resultado de la operacion 
+se debe manejar una estructura mvc
